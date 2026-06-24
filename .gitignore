@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+data/raw/
+data/images/
+data/labels/
+outputs/
+
+*.pt
+*.pth
+*.onnx
+*.h5
+
+.env
+.vscode/
